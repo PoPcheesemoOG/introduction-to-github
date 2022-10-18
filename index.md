@@ -4,3 +4,6 @@
 $ git init 
 Initialized empty Git repository in /Users/PoPcheesemo/Practices/Example_1/.git/
 ```
+- [x] Make a profile
+- [ ] Finish the training
+- [ ] Make games
